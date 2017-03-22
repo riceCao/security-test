@@ -2,8 +2,8 @@ SDK：Java JDK，Android SDK。
 
 工具：
 7zip，
-dex2jar，
-jd-gui，
+dex2jar，将dex文件转化成jar
+jd-gui，可以查看jar中的类，其实他就是解析class文件
 apktool，
 IDA pro（6.1），
 ApkAnalyser，
